@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 shop</title>
+  <link rel="stylesheet" href="style.css"> 
+</head>
+<body>
+  <header>
+    <img src="assets/f1_logo.png">
+  </header>
+  <main>
+    <video src="assets/Transforming Formula One_ 2014 Rules Explained (Full Version).mp4" autoplay muted loop></video>
+     <a href="#" class="btn" id="btn-en-savoir-plus">En savoir plus</a>
+  </main>
+  </main>  
+   <div class="nouvelle-page" id="nouvelle-page">
+       <div class="rb21">
+           <img src="assets/rb_21.avif" class="RB21_img">
+       </div>
+    <div class="team-page">
+    <h1 class="nom_red">Red Bull Racing</h1>
+</div>
+    </main>
+</div>
+    
+  </div>
+   <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const btnEnSavoirPlus = document.getElementById('btn-en-savoir-plus');
+      const btnRetour = document.getElementById('btn-retour');
+      const nouvellePage = document.getElementById('nouvelle-page');
+
+      btnEnSavoirPlus.addEventListener('click', function(e) {
+        e.preventDefault();
+        nouvellePage.classList.add('active');
+      });
+
+      btnRetour.addEventListener('click', function(e) {
+        e.preventDefault();
+        nouvellePage.classList.remove('active');
+      });
+    });
+    
+  </script>
+</body>
+</html>
