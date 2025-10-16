@@ -4,6 +4,9 @@
 Ce projet est une landing page réalisée par **Mahmoud Adel** dans le cadre de mes études à **Ynov Aix**, en première année du parcours **Data & Intelligence Artificielle**.  
 Le site a été conçu pour présenter l’univers de la Formule 1 à travers l’écurie **Red Bull Racing**, et mettre en avant un produit : un casque de pilote de légende.
 
+## Le plan pour le landing page
+![](src/assets/plan_landing_page.png)
+
 ## Description du site
 La page est composée de plusieurs sections :
 - Une **vidéo d’introduction** pour présenter l’écurie Red Bull Racing.  
@@ -20,3 +23,5 @@ La page est composée de plusieurs sections :
 
 ## Informations
 Toutes les images, vidéos et éléments visuels utilisés sont destinés à un **usage purement pédagogique** et **non commercial**.
+
+
