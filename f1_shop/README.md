@@ -10,7 +10,8 @@ La page est composée de plusieurs sections :
 - Une **présentation des deux pilotes** actuels.  
 - Une **brève histoire de l’écurie** et de ses performances.  
 - Une **présentation du CEO** de Red Bull Racing.  
-- Enfin, une **section produit** dédiée à la vente d’un casque de Formule 1.
+- Une **section produit** dédiée à la vente d’un casque de Formule 1.
+- Enfin,des **retout** de la part des clients.
 
 ## Technologies utilisées
 - **HTML5** pour la structure du site  
